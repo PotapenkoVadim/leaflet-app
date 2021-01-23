@@ -23,3 +23,4 @@
   npm run start
 
 ### Дополнительно
+Задеплоенный проект в firebase: https://leaflet-app-3ef17.web.app/
