@@ -1,0 +1,28 @@
+.sidebar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: 100vh;
+  background-color: #f0f0f0;
+  border: 1px solid light;
+  box-shadow: -1px 1px 3px grey;
+  overflow: auto;
+  z-index: 1000;
+  h3 {
+    text-align: center;
+    color: #333;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+}
+
+@media (max-width: 900px) {
+  .sidebar { width: 30%; }
+}
+
+@media (max-width: 650px) {
+  .sidebar { width: 40%; }
+}

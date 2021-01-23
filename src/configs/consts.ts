@@ -1,0 +1,1 @@
+export const HOST:string = 'https://raw.githubusercontent.com/waliot/test-tasks/master/assets/data/frontend-1-dataset.json';
