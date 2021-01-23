@@ -14,7 +14,7 @@
 ### Установка
 - клонирование приложения командой
   ```bsh
-  git clone 
+  git clone https://github.com/PotapenkoVadim/leaflet-app.git
 - установка зависимостей
   ```js
   npm install
